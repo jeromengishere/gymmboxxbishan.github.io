@@ -184,3 +184,7 @@ html, body {
 .rates-1year {
     flex:1;
 }
+.rates-image {
+    height:250px;
+    width: 400px;
+}
