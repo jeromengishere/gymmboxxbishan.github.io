@@ -158,10 +158,29 @@ html, body {
 .shop-item-price {
     flex-grow: 1;
     color: ghostwhite;
+    text-align: center;
 }
 
 .shop-items {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+.rates-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center
+}
+.rates-1month {
+    flex: 1;
+
+}
+.rates-6months {
+    flex:1;
+
+}
+.rates-1year {
+    flex:1;
 }
